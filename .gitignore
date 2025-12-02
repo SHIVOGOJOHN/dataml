@@ -1,0 +1,37 @@
+# Files to ignore
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Deployment files
+rsconnect/
+deployment/
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# R specific
+.Rapp.history
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+vignettes/*.html
+vignettes/*.pdf
+.httr-oauth
+
+# Deployment scripts (keep local)
+deploy_*.R
+main.R
+redeploy_*.R
+prepare_*.R
+fix_paths_*.R
+DEPLOY_ALL_APPS.R
