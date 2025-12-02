@@ -229,7 +229,7 @@ This project is licensed under the MIT License.
 
 **John Shivogo**
 - GitHub: [@SHIVOGOJOHN](https://github.com/SHIVOGOJOHN)
-- Portfolio: [Add your portfolio link]
+- Portfolio: (https://shivogojohn.onrender.com)
 
 ## 🌟 Acknowledgments
 
